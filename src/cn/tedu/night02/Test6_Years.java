@@ -27,7 +27,7 @@ public class Test6_Years {
 		if (a || b) {
 			desc1 = "闰年";
 		}
-		System.out.println("您好！" + year + "年是" + desc1);
+		System.out.println("你好！" + year + "年是" + desc1);
 
 	}
 }
